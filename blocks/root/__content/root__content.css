@@ -1,0 +1,21 @@
+.root__content {
+  padding: 28px 0 46px;
+}
+
+@media screen and (max-width: 1140px) {
+  .root__content {
+    padding: 24px 0 46px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .root__content {
+    padding: 24px 0 44px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .root__content {
+    padding: 24px 0 32px;
+  }
+}

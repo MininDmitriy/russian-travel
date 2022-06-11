@@ -1,0 +1,16 @@
+.intro__list {
+  width: 100%;
+  font-family: 'Intro', Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 700;
+  list-style-type: none;
+  margin: 16.5px 0 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 568px) {
+  .intro__list {
+    margin: 17px 0 0;
+  }
+}

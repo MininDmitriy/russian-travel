@@ -1,0 +1,14 @@
+.intro__text {
+  width: 100%;
+  font-family: 'Intro', Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 26.08px;
+  font-weight: 400;
+  margin: 20px 0 16.5px;
+}
+
+@media screen and (max-width: 568px) {
+  .intro__text {
+    margin: 20px 0 17px;
+  }
+}
