@@ -10,6 +10,6 @@
 
 @media screen and (max-width: 568px) {
   .root__footer {
-    padding: 32px 0 16px 24px;
+    padding: 32px 0 24px 16px;
   }
 }
